@@ -4,8 +4,8 @@ A simple and responsive **Todo List web app** built with **Next.js**, featuring 
 
 ## Links
 
-- **Deployed Web App (Vercel):** https://your-vercel-link.vercel.app
-- **GitHub Repository (Public):** https://github.com/yourusername/todo-list
+- **Deployed Web App (Vercel):** [todo-list-5kw0ab93h-nan-hsu-thet-paings-projects.vercel.app](https://todo-list-henna-sigma.vercel.app/)
+- **GitHub Repository (Public):** https://github.com/nanhsuthetpaing/Todo-List
 
 ## How to Install and Run the Project
 
